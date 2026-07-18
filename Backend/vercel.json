@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "Backend/main.py"
+      "dest": "Backend/app/main.py"
     }
   ]
 }
